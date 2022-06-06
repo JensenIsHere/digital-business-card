@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+}
+
+body {
+}
+
+.business_card {
+  margin: 30px 0 0 30px;
+  width: 317px;
+}
+
+.info--container {
+  background: #f5f5f5;
+  border-radius: 10px 10px 0 0;
+}
+
+.about--container {
+  background: #f5f5f5;
+}
+
+.interests--container {
+  background: #f5f5f5;
+}
+
+.footer--container {
+  background: #d5d4d8;
+  border-radius: 0px 0px 10px 10px;
+}
